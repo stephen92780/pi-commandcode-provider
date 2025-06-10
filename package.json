@@ -1,0 +1,10 @@
+{
+  "name": "pi-commandcode-provider",
+  "version": "0.1.0",
+  "description": "pi custom provider for the Command Code API \u2014 18 models including Claude, GPT, DeepSeek, Kimi, GLM, MiniMax, and Qwen",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
